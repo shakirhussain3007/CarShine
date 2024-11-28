@@ -553,7 +553,7 @@ li{
 }
 .secondlast_footer .container .box2 .links a:hover{
     color: #c00113;
-    /* transform: translateX(1); */
+    transform: translateX(10px);
 }
 .secondlast_footer .container .box3{
     width: 33%;
